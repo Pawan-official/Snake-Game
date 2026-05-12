@@ -55,7 +55,7 @@ To keep the game challenging, **we programmed a dynamic speed-scaling algorithm*
 ## 🖥️ Getting Started
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/Pawan-official/Snake-Game](https://github.com/abhinavkdeval08-design/Snake-Game.git)
+    git clone [https://github.com/Pawan-official/Snake-Game](https://github.com/Pawan-official/Snake-Game)
     ```
 2.  **Compile the Code:**
     ```bash
